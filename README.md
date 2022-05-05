@@ -10,6 +10,8 @@
 
 ## EXAMEN BACKEND MICHIEL VERSCHAEVE
 
+## Go to: 'http://127.0.0.1:8000/item'
+
 ## Gegevens van de users
 - email: michielverschaeverd@gmail.com password: 12345678  ->Administrator 
 
