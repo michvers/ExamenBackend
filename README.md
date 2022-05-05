@@ -15,7 +15,7 @@
 ## Gegevens van de users
 - email: michielverschaeverd@gmail.com password: 12345678  ->Administrator 
 
-- email: tony@gmail.com password: 12345678 ->Author
+- email: johnny@gmail.com password: 12345678 ->Author
 
 
 
